@@ -38,3 +38,14 @@ Login with a web browser
 gh auth login
 
 
+######  Corrigindo o user do commit #######
+
+
+git add .
+
+git commit -m "update README (Again)"
+
+git push origin
+
+
+
