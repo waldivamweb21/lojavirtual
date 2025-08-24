@@ -1,0 +1,40 @@
+git clone <Aqui coloca o link do seu projeto github>
+
+cd lojavirtual/
+
+git status
+
+git branch
+
+git remote -v 
+
+git log --oneline
+
+#INSTALANDO O CLI DO GITHUB 
+
+baixa do  site:
+
+// https://github.com/cli/cli/releases/tag/v2.78.0
+
+Comando pra saber se ja foi instalado;
+
+gh --version
+
+// Autenticando via HTTPS
+
+gh auth login
+
+HTTPS
+
+GitHub.com
+
+Y
+
+Login with a web browser
+
+#######Autenticando via TOKEN ###
+
+
+gh auth login
+
+
