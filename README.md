@@ -1,2 +1,2 @@
 # lojavirtual
-github - Criando um repositório remoto - Estudo Curso Bonieky Lacerda 
+Curso github - Criando um repositório remoto - Estudo Curso Bonieky Lacerda - 08/2025.
